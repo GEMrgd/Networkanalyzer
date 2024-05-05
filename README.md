@@ -33,5 +33,5 @@ The script relies on the `socket`, `ipaddress`, and `binascii` modules for vario
 To run the script, ensure you have a hexdump file (`hexdmp.txt` by default) containing the network packets. Then execute the script using Python:
 
 ```bash
-python packet_parser.py
+python3 projectnetworking.py
 ```
